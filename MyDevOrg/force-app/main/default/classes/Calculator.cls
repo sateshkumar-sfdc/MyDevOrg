@@ -11,6 +11,7 @@ public class Calculator {
         return a*b;
     }
     public integer div(integer a, integer b){
+        System.debug('test '+a);
         return a/b;
     }
 
