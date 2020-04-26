@@ -12,6 +12,7 @@ public class Calculator {
     }
     public integer div(integer a, integer b){
         System.debug('test '+a);
+        System.debug('test '+b);
         return a/b;
     }
 
